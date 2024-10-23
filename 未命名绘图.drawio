@@ -2690,7 +2690,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry width="1230" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-3" value="车辆编号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-2">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-3" value="分类名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-2">
           <mxGeometry width="326" height="63" as="geometry">
             <mxRectangle width="326" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2700,7 +2700,7 @@
             <mxRectangle width="213" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-2">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-5" value="显示名称，建议尽量简短。分类不需要带具体的型号信息。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-2">
           <mxGeometry x="539" width="691" height="63" as="geometry">
             <mxRectangle width="691" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2708,7 +2708,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="63" width="1230" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-7" value="品牌" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-6">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-7" value="层级" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-6">
           <mxGeometry width="326" height="64" as="geometry">
             <mxRectangle width="326" height="64" as="alternateBounds" />
           </mxGeometry>
@@ -2718,7 +2718,7 @@
             <mxRectangle width="213" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-6">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-9" value="1-&amp;gt; 2-&amp;gt; 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-6">
           <mxGeometry x="539" width="691" height="64" as="geometry">
             <mxRectangle width="691" height="64" as="alternateBounds" />
           </mxGeometry>
@@ -2731,7 +2731,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="127" width="1230" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-11" value="车辆型号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-10">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-11" value="父分类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-10">
           <mxGeometry width="326" height="63" as="geometry">
             <mxRectangle width="326" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2741,7 +2741,7 @@
             <mxRectangle width="213" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-10">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-13" value="从属与哪个分类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-10">
           <mxGeometry x="539" width="691" height="63" as="geometry">
             <mxRectangle width="691" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2749,7 +2749,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="190" width="1230" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-15" value="车辆" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-14">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-15" value="是否默认预警" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-14">
           <mxGeometry width="326" height="63" as="geometry">
             <mxRectangle width="326" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2759,7 +2759,7 @@
             <mxRectangle width="213" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-14">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-17" value="默认预警的，配件管理时（配件会选择分类）提示完善预警信息，带入默认的预警模式。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-14">
           <mxGeometry x="539" width="691" height="63" as="geometry">
             <mxRectangle width="691" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2767,7 +2767,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="253" width="1230" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-19" value="运行单位和线路" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-18">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-19" value="预警类型" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-18">
           <mxGeometry width="326" height="52" as="geometry">
             <mxRectangle width="326" height="52" as="alternateBounds" />
           </mxGeometry>
@@ -2777,7 +2777,7 @@
             <mxRectangle width="213" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-18">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-21" value="时长预警/公里数预警/两者同时" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-18">
           <mxGeometry x="539" width="691" height="52" as="geometry">
             <mxRectangle width="691" height="52" as="alternateBounds" />
           </mxGeometry>
@@ -2785,17 +2785,17 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="305" width="1230" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-23" value="&lt;font color=&quot;#ea6b66&quot;&gt;预警部件&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-22">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-23" value="&lt;font&gt;预警时长&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=default;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-22">
           <mxGeometry width="326" height="63" as="geometry">
             <mxRectangle width="326" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-24" value="&lt;span style=&quot;text-align: center;&quot;&gt;时间预警/公里预警&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-22">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-22">
           <mxGeometry x="326" width="213" height="63" as="geometry">
             <mxRectangle width="213" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-22">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-25" value="默认使用时长，以天为单位，月按30算，年按365算。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-22">
           <mxGeometry x="539" width="691" height="63" as="geometry">
             <mxRectangle width="691" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2803,7 +2803,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="368" width="1230" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-27" value="&lt;font color=&quot;#ea6b66&quot;&gt;预警日期 预警公里数&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-26">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-27" value="&lt;font&gt;预警公里数&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=default;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-26">
           <mxGeometry width="326" height="63" as="geometry">
             <mxRectangle width="326" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2813,7 +2813,7 @@
             <mxRectangle width="213" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-29" value="&lt;font color=&quot;#0000ff&quot;&gt;显示已使用时长 / 已使用公里数&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-26">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-29" value="&lt;font&gt;默认使用公里数&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-26">
           <mxGeometry x="539" width="691" height="63" as="geometry">
             <mxRectangle width="691" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2821,7 +2821,7 @@
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-1">
           <mxGeometry y="431" width="1230" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-31" value="是否更换" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-30">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-31" value="备注" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-30">
           <mxGeometry width="326" height="63" as="geometry">
             <mxRectangle width="326" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2831,7 +2831,7 @@
             <mxRectangle width="213" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-33" value="&lt;font color=&quot;#0000ff&quot;&gt;更换创建维修单，更换后自动刷新预警设置&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-30">
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-33" value="&lt;font&gt;分类的备注&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-30">
           <mxGeometry x="539" width="691" height="63" as="geometry">
             <mxRectangle width="691" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -2844,6 +2844,113 @@
         </mxCell>
         <mxCell id="gD-d6wNrTZ7Qh7AWvljR-34" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;配件分类管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="51.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-38" value="建议规整到三级分类，层级太多操作会比较繁琐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;labelBackgroundColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="1230" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-39">
+          <mxGeometry width="1230" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-41" value="工作名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-40">
+          <mxGeometry width="326" height="63" as="geometry">
+            <mxRectangle width="326" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-40">
+          <mxGeometry x="326" width="213" height="63" as="geometry">
+            <mxRectangle width="213" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-43" value="显示名称，建议尽量简短。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-40">
+          <mxGeometry x="539" width="691" height="63" as="geometry">
+            <mxRectangle width="691" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-39">
+          <mxGeometry y="63" width="1230" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-45" value="层级" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-44">
+          <mxGeometry width="326" height="64" as="geometry">
+            <mxRectangle width="326" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-44">
+          <mxGeometry x="326" width="213" height="64" as="geometry">
+            <mxRectangle width="213" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-47" value="1-&amp;gt; 2-&amp;gt; 3，最多三级，建议两级" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-44">
+          <mxGeometry x="539" width="691" height="64" as="geometry">
+            <mxRectangle width="691" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-48" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-44">
+          <mxGeometry x="1230" width="NaN" height="64" as="geometry">
+            <mxRectangle width="NaN" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-39">
+          <mxGeometry y="127" width="1230" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-50" value="父分类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-49">
+          <mxGeometry width="326" height="63" as="geometry">
+            <mxRectangle width="326" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-49">
+          <mxGeometry x="326" width="213" height="63" as="geometry">
+            <mxRectangle width="213" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-52" value="从属与哪个分类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-49">
+          <mxGeometry x="539" width="691" height="63" as="geometry">
+            <mxRectangle width="691" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-39">
+          <mxGeometry y="190" width="1230" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-54" value="默认工时" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-53">
+          <mxGeometry width="326" height="63" as="geometry">
+            <mxRectangle width="326" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-55" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-53">
+          <mxGeometry x="326" width="213" height="63" as="geometry">
+            <mxRectangle width="213" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-56" value="经验值，可以在选择时带出参考。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-53">
+          <mxGeometry x="539" width="691" height="63" as="geometry">
+            <mxRectangle width="691" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-39">
+          <mxGeometry y="253" width="1230" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-58" value="备注" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-57">
+          <mxGeometry width="326" height="52" as="geometry">
+            <mxRectangle width="326" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-57">
+          <mxGeometry x="326" width="213" height="52" as="geometry">
+            <mxRectangle width="213" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-60" value="分类的备注" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="gD-d6wNrTZ7Qh7AWvljR-57">
+          <mxGeometry x="539" width="691" height="52" as="geometry">
+            <mxRectangle width="691" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gD-d6wNrTZ7Qh7AWvljR-73" target="gD-d6wNrTZ7Qh7AWvljR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gD-d6wNrTZ7Qh7AWvljR-73" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;维修工时管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="591.5" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
