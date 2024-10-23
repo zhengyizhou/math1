@@ -1327,150 +1327,222 @@
           <mxGeometry width="1800" height="252.99999999999955" as="geometry" />
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-282" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;labelBackgroundColor=#FFCCE6;" parent="JbTfyYwlccEgLpXA83VH-70" vertex="1">
-          <mxGeometry x="180" width="1620" height="504.99999999999955" as="geometry" />
+          <mxGeometry x="180" width="1170" height="778.9999999999995" as="geometry" />
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-283" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry width="1620" height="63" as="geometry" />
+          <mxGeometry width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-284" value="车辆编号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-283" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-285" value="&lt;font color=&quot;#0000ff&quot;&gt;选择车辆，带出下面和车辆相关的信息。&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-283" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-285" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-283" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-286" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-283" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-286" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;选择车辆，带出下面和车辆相关的信息。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-283" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-287" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="63" width="1620" height="64" as="geometry" />
+          <mxGeometry y="63" width="1170" height="64" as="geometry" />
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-288" value="品牌" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-287" vertex="1">
           <mxGeometry width="320" height="64" as="geometry">
             <mxRectangle width="320" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-289" value="&lt;font color=&quot;#0000ff&quot;&gt;由车辆带出。&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-287" vertex="1">
-          <mxGeometry x="320" width="670" height="64" as="geometry">
-            <mxRectangle width="670" height="64" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-289" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-287" vertex="1">
+          <mxGeometry x="320" width="420" height="64" as="geometry">
+            <mxRectangle width="420" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-290" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-287" vertex="1">
-          <mxGeometry x="990" width="630" height="64" as="geometry">
-            <mxRectangle width="630" height="64" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-290" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-287" vertex="1">
+          <mxGeometry x="740" width="430" height="64" as="geometry">
+            <mxRectangle width="430" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-291" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="127" width="1620" height="63" as="geometry" />
+          <mxGeometry y="127" width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-292" value="车辆型号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-291" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-293" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-291" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-293" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-291" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-294" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-291" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-294" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-291" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-295" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="190" width="1620" height="63" as="geometry" />
+          <mxGeometry y="190" width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-296" value="车辆" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-295" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-297" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-295" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-297" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-295" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-298" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="uElXk33tfZLFP503lNWd-295" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="uElXk33tfZLFP503lNWd-298" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="uElXk33tfZLFP503lNWd-295" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="253" width="1620" height="63" as="geometry" />
+          <mxGeometry y="253" width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-72" value="运行单位和线路" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-71" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-73" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-71" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-71" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-74" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-71" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-74" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;由车辆带出。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-71" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-75" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="316" width="1620" height="63" as="geometry" />
+          <mxGeometry y="316" width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-76" value="故障描述" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-77" value="&lt;font color=&quot;#0000ff&quot;&gt;故障描述，确定维修的原因。&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-77" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-78" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;故障描述，确定维修的原因。&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="379" width="1620" height="63" as="geometry" />
+          <mxGeometry y="379" width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-80" value="报修时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-81" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指预约单填写的时间还是希望维修的时间？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-82" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;此处指预约单填写的时间还是希望维修的时间？&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="uElXk33tfZLFP503lNWd-282" vertex="1">
-          <mxGeometry y="442" width="1620" height="63" as="geometry" />
+          <mxGeometry y="442" width="1170" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JbTfyYwlccEgLpXA83VH-84" value="报修人" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
           <mxGeometry width="320" height="63" as="geometry">
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-85" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指录入报修司机？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
-          <mxGeometry x="320" width="670" height="63" as="geometry">
-            <mxRectangle width="670" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-85" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
-          <mxGeometry x="990" width="630" height="63" as="geometry">
-            <mxRectangle width="630" height="63" as="alternateBounds" />
+        <mxCell id="JbTfyYwlccEgLpXA83VH-86" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;此处指录入报修司机？&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="uElXk33tfZLFP503lNWd-282">
+          <mxGeometry y="505" width="1170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-6" value="状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-5">
+          <mxGeometry width="320" height="85" as="geometry">
+            <mxRectangle width="320" height="85" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-7" value="状态：已完成/未完成（有检索界面可以指定条件检索，统计某单位 某车辆）（修理界面选择已完成就可以提示进入后面界面，否则一直显示未完成状态）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-5">
+          <mxGeometry x="320" width="420" height="85" as="geometry">
+            <mxRectangle width="420" height="85" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-8" value="&lt;font color=&quot;#0000ff&quot;&gt;预约状态，列表里只显示未完成预约的维修单，后续设为已完成后不再显示？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-5">
+          <mxGeometry x="740" width="430" height="85" as="geometry">
+            <mxRectangle width="430" height="85" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-9" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="uElXk33tfZLFP503lNWd-282">
+          <mxGeometry y="590" width="1170" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-10" value="维修编号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-9">
+          <mxGeometry width="320" height="63" as="geometry">
+            <mxRectangle width="320" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-9">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-12" value="预约时生成一个维修编号，需要确认规则。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-9">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-13" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="uElXk33tfZLFP503lNWd-282">
+          <mxGeometry y="653" width="1170" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-13">
+          <mxGeometry width="320" height="63" as="geometry">
+            <mxRectangle width="320" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-13">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-13">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="uElXk33tfZLFP503lNWd-282">
+          <mxGeometry y="716" width="1170" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-17">
+          <mxGeometry width="320" height="63" as="geometry">
+            <mxRectangle width="320" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-17">
+          <mxGeometry x="320" width="420" height="63" as="geometry">
+            <mxRectangle width="420" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8HDU-0xJwOuQDDm9wGFM-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8HDU-0xJwOuQDDm9wGFM-17">
+          <mxGeometry x="740" width="430" height="63" as="geometry">
+            <mxRectangle width="430" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uElXk33tfZLFP503lNWd-299" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预约（新增）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="JbTfyYwlccEgLpXA83VH-70" vertex="1">
