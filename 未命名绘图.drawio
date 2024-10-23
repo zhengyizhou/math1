@@ -1427,7 +1427,7 @@
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-77" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
+        <mxCell id="JbTfyYwlccEgLpXA83VH-77" value="&lt;font color=&quot;#0000ff&quot;&gt;故障描述，确定维修的原因。&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-75" vertex="1">
           <mxGeometry x="320" width="670" height="63" as="geometry">
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1445,7 +1445,7 @@
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
+        <mxCell id="JbTfyYwlccEgLpXA83VH-81" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指预约单填写的时间还是希望维修的时间？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-79" vertex="1">
           <mxGeometry x="320" width="670" height="63" as="geometry">
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1463,7 +1463,7 @@
             <mxRectangle width="320" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbTfyYwlccEgLpXA83VH-85" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
+        <mxCell id="JbTfyYwlccEgLpXA83VH-85" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指录入报修司机？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="JbTfyYwlccEgLpXA83VH-83" vertex="1">
           <mxGeometry x="320" width="670" height="63" as="geometry">
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
