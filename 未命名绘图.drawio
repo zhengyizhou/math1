@@ -989,7 +989,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-228" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-225">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-228" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指的是替换件原因吗？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-225">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1007,7 +1007,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-232" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-229">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-232" value="&lt;font color=&quot;#0000ff&quot;&gt;应该每个配件故障描述都不同，那旧件库是按每个配件一条这么显示吗？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-229">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1025,7 +1025,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-236" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-233">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-236" value="这个和故障描述，逻辑上有矛盾。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-233">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1043,7 +1043,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-240" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-237">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-240" value="指的是类型为索赔件/废件吗？" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-237">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1061,7 +1061,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-244" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-241">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-244" value="同入库单" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-241">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1079,7 +1079,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-248" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-245">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-248" value="同入库单" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-245">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1097,7 +1097,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-252" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-249">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-252" value="同入库单" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-249">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1115,7 +1115,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-256" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-253">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-256" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;同入库单&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-253">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1133,7 +1133,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-260" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-257">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-260" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;同入库单&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-257">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1151,7 +1151,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-264" value="&lt;font color=&quot;#ea6b66&quot;&gt;回收价格？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-261">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-264" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指回收价格？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-261">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1169,7 +1169,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-268" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-265">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-268" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指的具体含义是什么？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-265">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1187,7 +1187,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-272" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-269">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-272" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-269">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1205,7 +1205,7 @@
             <mxRectangle width="670" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-276" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-273">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-276" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指维修时候的操作人？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-273">
           <mxGeometry x="990" width="630" height="66" as="geometry">
             <mxRectangle width="630" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -1309,7 +1309,7 @@
         <mxCell id="ss7g_WJquvtzI1mHd-YC-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ss7g_WJquvtzI1mHd-YC-281" source="ss7g_WJquvtzI1mHd-YC-299" target="ss7g_WJquvtzI1mHd-YC-287">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-301" value="1、配件商、发货商这些是手动录入还是下拉选择&lt;div&gt;2、是否需要单独增加出库表单&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-301" value="1、配件商、发货商这些是手动录入还是下拉选择？&lt;div&gt;2、是否需要单独增加出库表单？&lt;/div&gt;&lt;div&gt;3、如何确定唯一的一种配件？&lt;/div&gt;&lt;div&gt;4、旧件指的是维修或保养时换下来的件重新入库吗？&lt;/div&gt;&lt;div&gt;这类配件是有单独的仓库（物理意义上的）还是和正常&lt;/div&gt;&lt;div&gt;配件混合存放？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2440" y="500" width="890" height="260" as="geometry" />
         </mxCell>
       </root>
