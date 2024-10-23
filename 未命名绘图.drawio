@@ -218,7 +218,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-48">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-51" value="&lt;font color=&quot;#0000ff&quot;&gt;单价：输入单价。&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;总价：根据数量*单价得出总价。&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-48">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
