@@ -1225,7 +1225,7 @@
         <mxCell id="ss7g_WJquvtzI1mHd-YC-280" value="描述：旧件库（清库的项目都是自动生成）" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="568" y="1400" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-281" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-281" value="" style="group;fontColor=#0000FF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="390" y="2789" width="1800" height="252.99999999999955" as="geometry" />
         </mxCell>
         <mxCell id="ss7g_WJquvtzI1mHd-YC-282" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;labelBackgroundColor=#FFCCE6;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-281">
@@ -1244,7 +1244,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-286" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-283">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-286" value="&lt;font color=&quot;#0000ff&quot;&gt;需要明确盘库的具体操作方式。&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-283">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1262,7 +1262,7 @@
             <mxRectangle width="670" height="64" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-290" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-287">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-290" value="&lt;font color=&quot;#0000ff&quot;&gt;需要明确明盘暗盘具体含义。&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-287">
           <mxGeometry x="990" width="630" height="64" as="geometry">
             <mxRectangle width="630" height="64" as="alternateBounds" />
           </mxGeometry>
@@ -1280,7 +1280,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-294" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-291">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-294" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-291">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1298,7 +1298,7 @@
             <mxRectangle width="670" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss7g_WJquvtzI1mHd-YC-298" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-295">
+        <mxCell id="ss7g_WJquvtzI1mHd-YC-298" value="&lt;font color=&quot;#0000ff&quot;&gt;此处指在库数量和盘库数量对比，不一致需要签字更改？&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="ss7g_WJquvtzI1mHd-YC-295">
           <mxGeometry x="990" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
