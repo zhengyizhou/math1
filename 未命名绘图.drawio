@@ -1825,7 +1825,7 @@
             <mxRectangle width="750" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-59" value="&lt;font color=&quot;#ff0000&quot;&gt;预约/预警/返厂维修/正常维修/抛锚，需要确认具体操作内容的含义&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" parent="uElXk33tfZLFP503lNWd-56" vertex="1">
+        <mxCell id="uElXk33tfZLFP503lNWd-59" value="&lt;font color=&quot;#ff0000&quot;&gt;预约/预警/返厂维修/索赔维修/正常维修/抛锚，需要确认具体操作内容的含义&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" parent="uElXk33tfZLFP503lNWd-56" vertex="1">
           <mxGeometry x="1070" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1843,7 +1843,7 @@
             <mxRectangle width="750" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" parent="uElXk33tfZLFP503lNWd-60" vertex="1">
+        <mxCell id="uElXk33tfZLFP503lNWd-63" value="转乘信息指调度需要调换车辆，凭证需要上传附件。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" parent="uElXk33tfZLFP503lNWd-60" vertex="1">
           <mxGeometry x="1070" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
@@ -1879,7 +1879,7 @@
             <mxRectangle width="750" height="63" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uElXk33tfZLFP503lNWd-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" parent="uElXk33tfZLFP503lNWd-68" vertex="1">
+        <mxCell id="uElXk33tfZLFP503lNWd-71" value="控制是否触发处罚的流程。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;fontColor=#0000FF;" parent="uElXk33tfZLFP503lNWd-68" vertex="1">
           <mxGeometry x="1070" width="630" height="63" as="geometry">
             <mxRectangle width="630" height="63" as="alternateBounds" />
           </mxGeometry>
